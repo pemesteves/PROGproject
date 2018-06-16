@@ -1,0 +1,6 @@
+﻿  playwords.cpp
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\1º trabalho\program2\playwords\playwords\playwords.cpp(38): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\1º trabalho\program2\playwords\playwords\playwords.cpp(393): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\1º trabalho\program2\playwords\playwords\playwords.cpp(421): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\1º trabalho\program2\playwords\playwords\playwords.cpp(424): warning C4018: '<': incompatibilidade de signed/unsigned
+  playwords.vcxproj -> C:\Users\Pedro Esteves\Desktop\MIEIC\1ºAno\2ºSemestre\Programação\1º Trabalho\program2\playwords\Debug\playwords.exe
